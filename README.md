@@ -29,4 +29,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgesh005&show_icons=true&locale=en" alt="durgesh005" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh005&" alt="durgesh005" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikhadiya09&show_icons=true&locale=en&layout=compact" alt="kartikhadiya09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikhadiya09&show_icons=true&locale=en" alt="kartikhadiya09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikhadiya09&" alt="kartikhadiya09" /></p>
 <br/>
