@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kartik hadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik hadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.nobby_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.nobby_09" height="30" width="40" /></a>
+<a href="https://instagram.com/nirav_vyas__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirav_vyas__" height="30" width="40" /></a>
 </p>
     <br/>
   <a href="https://github.com/durgesh005">
