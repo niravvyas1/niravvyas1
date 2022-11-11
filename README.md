@@ -2,8 +2,9 @@
 <h3 align="center">A Passionate Flutter Developer From India</h3>
 <img align="right" alt="Coding" width="400" high="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
+ -->
+ 
 
 - 🌱 I’m Flutter Developer **
 
