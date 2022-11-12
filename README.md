@@ -4,11 +4,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
  -->
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Nirav Vyas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Nirav Vyas/)](https://www.linkedin.com/in/Nirav Vyas/)
-[![Instagram Badge](https://img.shields.io/badge/-Nirav Vyas-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nirav_vyas__/)](https://www.instagram.com/nirav_vyas__/)
-[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:niravvyas1234@gmail.com)](mailto:niravvyas1234@gmail.com)
-
 
 - 🌱 I’m Flutter Developer **
 
