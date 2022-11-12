@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirav Vyas</h1>
 <h3 align="center">A Passionate Flutter Developer From India</h3>
-<img align="right" alt="Coding" width="500" high="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"</h5>
+<img align="right" alt="Coding" width="500" high="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"</h5>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
  -->
